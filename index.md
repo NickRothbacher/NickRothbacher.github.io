@@ -1,3 +1,0 @@
-## Placeholder: Under Construction
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed volutpat lectus. Cras pellentesque sed orci semper tempus. Praesent ut nulla lacinia, tempus risus id, tempor sapien. Mauris porta, massa congue aliquam posuere, sapien metus ultricies orci, vel mollis mauris tellus et dui. Vestibulum tempor vestibulum tortor at ultricies. Morbi vitae nisl ipsum. Nunc tristique finibus velit, vitae scelerisque lacus fermentum non. Phasellus justo diam, ullamcorper nec nisl ullamcorper, tincidunt lobortis tortor. Phasellus nec mattis felis. Sed id consequat tellus, sed auctor est. Praesent et vestibulum velit.
